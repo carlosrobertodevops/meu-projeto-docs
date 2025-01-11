@@ -14,7 +14,7 @@ pip install "mkdocs-techdocs-core==1.*"
 # Generate
 techdocs-cli generate --no-docker
 
-gh secret set TECHDOCS_S3_BUCKET_NAME -r "$REPOSITORY_URL" -b  "$TECHDOCS_BUCKET"
+# gh secret set TECHDOCS_S3_BUCKET_NAME -r "$REPOSITORY_URL" -b  "$TECHDOCS_BUCKET"
 
 
 ENTITY_NAMESPACE="default"
