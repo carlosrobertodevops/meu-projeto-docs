@@ -23,3 +23,5 @@ $ENTITY_NAME="meu-projeto"
 
 # Publish
 techdocs-cli publish --publisher-type awsS3 --storage-name $TECHDOCS_BUCKET --entity $ENTITY_NAMESPACE/$ENTITY_KIND/$ENTITY_NAME
+
+rm -rf $REPOSITORY
