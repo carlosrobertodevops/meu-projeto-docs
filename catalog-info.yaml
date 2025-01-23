@@ -4,6 +4,7 @@ metadata:
   name: meu-projeto
   description: Documentação do meu projeto
   annotations:
+    github.com/project-slug: carlosrobertodevops/meu-projeto-docs
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
