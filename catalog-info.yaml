@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: meu-projeto
+  name: meu-projeto-docs
   description: Documentação do meu projeto
   annotations:
     github.com/project-slug: carlosrobertodevops/meu-projeto-docs
