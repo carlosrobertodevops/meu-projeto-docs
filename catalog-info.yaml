@@ -4,7 +4,12 @@ metadata:
   name: meu-projeto-docs
   description: Documentação do meu projeto
   annotations:
+    # github.com/project-slug: carlosrobertodevops/meu-projeto-docs
+    github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
+    # backstage.io/view-url: https://github.com/carlosrobertodevops/meu-projeto-docs/blob/main/catalog-info.yaml
+    # backstage.io/edit-url: https://github.com/carlosrobertodevops/meu-projeto-docs/blob/main/catalog-info.yaml
+
 spec:
   type: documentation
   owner: user:carlos
