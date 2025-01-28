@@ -1,4 +1,4 @@
-site_name: Minha Documentação
+site_name: meu-projeto-docs
 site_description: An informative description
 plugins:
 - techdocs-core
