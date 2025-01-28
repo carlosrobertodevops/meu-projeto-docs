@@ -30,3 +30,4 @@ techdocs-cli publish \
 	--entity $NAMESPACE/$KIND/$NAME
 
 rm -rf "./meu-projeto-docs"
+rm -rf "./site/"
